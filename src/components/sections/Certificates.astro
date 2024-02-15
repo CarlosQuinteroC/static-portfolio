@@ -1,0 +1,32 @@
+---
+import Section from "@/components/Section.astro";
+import {certificates} from "@cv"
+---
+
+<Section title="Certificates">
+    <ul>
+        {
+            certificates.map(
+                ({ name, year, issuer, url }) => {
+                    return (
+                        <li>
+                            <article>
+                                <header>
+                                    <div>
+                                        <h3>{name}</h3>
+                                    </div>
+                                </header>
+
+                                <footer>
+                                    <span>{issuer} - {year}</span>
+                                    <a href={`${url}`} target="_blank"
+                            rel="noopener noreferrer">{url}</a>
+                                </footer>
+                            </article>
+                        </li>
+                    );
+                },
+            )
+        }
+    </ul>
+</Section>

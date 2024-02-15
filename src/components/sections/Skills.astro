@@ -1,0 +1,42 @@
+---
+import Section from "@/components/Section.astro";
+import { SoftSkills, languages, FieldsOfInterests, TechnicalSkills } from "@cv";
+---
+
+<Section title="Skills">
+    <h3>Soft Skills:</h3>
+    <ul>
+        {SoftSkills.map((skill: unknown) => <li>{skill}</li>)}
+    </ul>
+    <h3>Technical Skills:</h3>
+    <ul>
+        {TechnicalSkills.map((skill: any) => <li>{skill}</li>)}
+    </ul>
+    <h3>Languajes:</h3>
+    <ul>
+        {languages.map((languaje: unknown) => <li>{languaje}</li>)}
+    </ul>
+    <h3>Fields od Interest:</h3>
+    <ul>
+        {FieldsOfInterests.map((field: any) => <li>{field}</li>)}
+    </ul>
+</Section>
+<style>
+    ul {
+        display: inline-flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    li {
+        align-items: center;
+        background: #eee;
+        border-radius: 6px;
+        color: black;
+        display: flex;
+        font-size: 0.8rem;
+        font-weight: 500;
+        gap: 4px;
+        padding: 0.2rem 0.6rem;
+    }
+</style>

@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "Carlos Hernando Quintero Castro",
+    "label": "Experienced support engineer offering over 2 years of expertise in providing technical assistance for software products and it's integration environments.",
+    "email": "chqc11@gmail.com",
+    "phone": "(226) 886-5864",
+    "url": "https://midominio.com",
+    "summary": "Experienced support engineer offering over 2 years of expertise in providing technical assistance for software products. Skilled in supporting customer integration deployed on both cloud and on-site environments, with proficiency in networking and troubleshooting. Proven track record of working autonomously and collaboratively to effectively resolve application-related problems.",
+    "location": {
+      "address": "52 Glengarry Crescent",
+      "postalCode": "N7L 4H9",
+      "country": "Canada",
+      "city": "Chatam",
+      "province": "ON"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "cquinteroc",
+        "url": "https://linkedin.com/in/cquinteroc"
+      },
+      {
+        "network": "GitHub",
+        "username": "CarlosQuinteroC",
+        "url": "https://github.com/CarlosQuinteroC"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Appgate",
+      "position": "Application support Junior Engineer - Level 1",
+      "startDate": "July 2021",
+      "endDate": "August 2023",
+      "summary": [
+        "Supported software products for banking integrations including the authentication stage according to client policies",
+        "Managed customer support tickets on calls, conferences, emails to gather information, validated logs, and diagnosed the issue.",
+        "Monitored and Supported cloud environments (AWS) and the on-premises infrastructures where the applications are deployed, to guarantee a secure, updated, and vulnerability-free platform On windows and Linux servers.",
+        " Followed security alerts, diagnosed root cause and potential scope of impact.",
+        "Created and updated documentation for common issues and recommended troubleshooting processes for product and security alerts."
+      ]
+    },
+    {
+      "company": "Insa Ingenieria",
+      "position": "Application specialist",
+      "startDate": "February 2021",
+      "endDate": "June 2021",
+      "summary": [
+        "Implementation of industrial automation systems in up to 40 oil wells.",
+        "Digitization of industrial instruments for dashboard monitoring.",
+        "Data collection, monitoring, and support of field systems.",
+        "Implemented scripts to collect and analyze metrics to measure the performance of the application and reported findings to help make informed business decisions.",
+        "Generated reports to clients from the collected data."
+      ]
+    },
+    {
+      "company": "Tecnoambientes SAS",
+      "position": "Project Manager",
+      "startDate": "January 2019",
+      "endDate": "December 2020",
+      "summary": [
+        "Designed and planned home automation systems according to the comfort needs of the customer, from network devices, phones or tablet, and actuators or sensors required.",
+        " Installed and configured smart systems on homes and buildings.",
+        "Post-sales support of home automation systems for hardware and software.",
+        "Trained customers in the use of home automation systems."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de caldas",
+      "area": "Certification in programming skills with emphasis on mobile applications Misión TIC 2022",
+      "studyType": "Certification program",
+      "yearOfCompletion": "2021",
+      "pais": "Colombia"
+    },
+    {
+      "institution": "Universidad distrital francisco jose de caldas",
+      "area": "Control Engineering",
+      "studyType": "Bachelor",
+      "yearOfCompletion": "2018",
+      "pais": "Colombia"
+    },
+    {
+      "institution": "Universidad distrital francisco jose de caldas",
+      "area": "Electronics Technologist",
+      "studyType": "Technologist",
+      "yearOfCompletion": "2015",
+      "pais": "Colombia"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "year": "2023",
+      "issuer": "Amazon Web Services",
+      "url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/ZD5P45SC82F11MC7"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "year": "2022",
+      "issuer": "Amazon Web Services",
+      "url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/KLFCQWC26FRE123N"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+    "SoftSkills": [
+      "Autonomous ",
+      "Effective communication ",
+      "Problem-Solving and critical thinking ",
+      "Adaptability and flexibility ",
+      "Passion ",
+      "Empathy ",
+      "Motivation ",
+      "Teamwork ",
+      "Patience"
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "FieldsOfInterests": [
+      "IT",
+      "support/help desk",
+      "monitoring",
+      "Cloud",
+      "cybersecurity",
+      "DevOps",
+      "CICD",
+      "Software"
+    ],
+    "TechnicalSkills": [
+      "Problem solver",
+      "Troubleshoot",
+      "Resolution",
+      "Diagnose",
+      "Debugging",
+      "Database",
+      "Windows",
+      "Linux",
+      "AWS",
+      "SQL"
+    ],
+
+    "references": [
+      {
+        "name": "Jane Doe",
+        "reference": "Reference…"
+      }
+    ],
+    "projects": [
+      {
+        "name": "mars.codes",
+        "isActive": true,
+        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "highlights": [
+          "Elige tu propia aventura",
+          "En desarrollo"
+        ],
+        "url": "https://mars.codes"
+      }
+    ]
+  }
