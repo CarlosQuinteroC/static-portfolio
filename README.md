@@ -8,15 +8,7 @@ Quien desee utilizar este proyecto como plantilla para generar su propio resume,
 
 ![alt text](<Pasted image 20240215120327.png>)
 
-Para correr el proyecto ejecutar: 
-```
-npm run dev
-```
-
-
-
-Créditos: Este proyecto ha sido creado a partir de la inspiración del creador de contenido Midudev
-
+## Comandos AStro disponibles : 
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
@@ -25,4 +17,5 @@ Créditos: Este proyecto ha sido creado a partir de la inspiración del creador 
 | `npm run build`           | Build your production site to `./dist/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
 
-
+### 
+Créditos: Este proyecto ha sido creado a partir del proyecto minimalist-portfolio del creador de contenido Midudev.
